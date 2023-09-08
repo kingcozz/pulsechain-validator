@@ -3,7 +3,7 @@
 # PulseChain validator helper script stuff to "reset" things so you can try again
 #
 
-I_KNOW_WHAT_I_AM_DOING=false # CHANGE ME ONLY IF YOU TRULY UNDERSTAND
+I_KNOW_WHAT_I_AM_DOING=true # CHANGE ME ONLY IF YOU TRULY UNDERSTAND
 
 if [ "$I_KNOW_WHAT_I_AM_DOING" = false ]; then
     echo "Make sure you understand what this script does, then flip I_KNOW_WHAT_I_AM_DOING to true if you want to run it"
